@@ -13,12 +13,12 @@ This is a comprehensive collection of Python fundamentals, logic-building assign
 * **miniProjects in python**: Small, independent scripts built to solve specific tasks.
 * **PYTHON PROJECTS while lectures**: Hands-on projects built in real-time during my learning sessions.
 
-## 🛠️ Skills Developed
+## Skills Developed
 * **Logic Building:** Solving structured assignments to master algorithmic thinking.
 * **Application:** Turning theory into practice through mini-projects.
 * **Structure:** Learning to organize code and assets within a professional workflow.
 
-## 👤 About Me
+## About Me
 **Krishna Patel**
 * GitHub: [@krishnapatel0336](https://github.com/krishnapatel0336)
 * Current Goal: Learning Python for real-world application.
