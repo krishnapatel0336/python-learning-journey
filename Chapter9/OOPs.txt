@@ -1,0 +1,39 @@
+Object oriented programming
+#programming style
+
+classes
+objects
+attributes
+methods
+
+Makes code-
+@ reusable
+@organise
+@easy to maintain
+similar to real world objects
+
+#staticmethod do not use self they are use for
+utility level function
+
+
+OOPs Concepts:
+
+
+#encaptulation
+Wrap data + methods inside single unit(class).
+
+#abstraction:   conclusion
+show only essential details and hide the complexity
+Eg:Instagram we use without knowing backend
+
+
+#polymorphism:
+same function name but diffrent behavior and classes 
+one function -> many behaviors depends on objects calling it
+(same method used)
+
+#inheritance:   Heridity (jaydat)
+parent class and child class    (parent)
+perents method is usable ny childe class
+
+
