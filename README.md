@@ -3,9 +3,9 @@
 Welcome to my Python repository! This space serves as a digital journal of my coding progress, featuring everything from my first lines of code to functional mini-projects.
 This is a comprehensive collection of Python fundamentals, logic-building assignments, and hands-on mini-projects developed from core chapters and applications.
 
-## 📂 What's Inside?
+## What's Inside?
 
-Based on my learning roadmap, this repository is organized into the following sections:
+ Based on my learning roadmap, this repository is organized into the following sections:
 
 * **CHAPTER_0to7**: Core foundations including syntax, loops, and data types.
 * **CHAPTER8 & CHAPTER9**: Intermediate concepts and deeper dives into Python's capabilities.
