@@ -1,0 +1,1 @@
+print(("KRISHNA\n")*10)
