@@ -1,9 +1,7 @@
-# python-learning-journey
- A comprehensive collection of Python fundamentals, logic-building assignments, and hands-on mini-projects developed from core chapters and applications.
-
 # 🐍 Python Learning Journey
 
 Welcome to my Python repository! This space serves as a digital journal of my coding progress, featuring everything from my first lines of code to functional mini-projects.
+This is a comprehensive collection of Python fundamentals, logic-building assignments, and hands-on mini-projects developed from core chapters and applications.
 
 ## 📂 What's Inside?
 
